@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Tâm nàyyyy!',
+    introDesc: `Người ta có câu
+    Giang hồ hiểm ác anh không sợ
+    chỉ sợ đường về vắng bóng em
+     và Huy cũng vậy:)`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Vậy Tâm có iu huy honggggggggg',
+    desc: 'trả lời đi không cần ngại đâuu ',
+    btnYes: 'Yêu chứ',
+    btnNo: 'Không, bạn ê :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao Tâm lại yêu Huy <3',
+    btnReply: 'Gửi cho Huy <3',
+    reply: 'tại vì huy ĐẸP TRAIIIIIII <3',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều,  😘😘',
+    messDesc: 'um xem phim típ đi nói vậy thoi, chụt chụt',
+    btnAccept: 'Okiiiii ạ <3',
+    messLink: 'https://www.facebook.com/minhhuy.m1rai2k/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
